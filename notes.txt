@@ -1,0 +1,45 @@
+2025-02-04
+
+I decided to drop the fennel stuff for now, I overestimated my ability to learn fennel in a couple of nights.
+
+As soon as I finish this week's game I'll jump back on the fennel train
+
+In the meantime I have implemented the most basic flexbox system imaginable as my first step.
+
+My main idea for the game:
+- Use the midi controller to change the frequency/amplitude of your wave to match another wave
+- Potentially have addition/subtraction in the mix
+- Try and make it a similar art style to the previous game, very basic and use SODs (maybe even use them to juice up the waves)
+- Scope will need to be extremely limited - make this an arcade style game like the previous memory game
+
+This might be the biggest rush yet - I only have my flexbox implementation complete and it's already Tuesday!
+
+
+2025-02-05
+- Completed basic wave form rendering
+- Basic layout is complete for the level
+- Couldn't work out how to directly interface the midi controller with love2d so I opted to: read the values using a python script -> write those values to a file -> read the file using love2d
+
+Right now I'm feeling pretty good about being able to finish this by the deadline
+
+2025-02-06
+- I made the midi output affect the frequency/amplitude/shape
+- I fixed the wave output view
+TODO:
+- wave goal view is still likely broken - needs to be redone in the same way as the wave goal
+
+2025-02-07
+- I have fixed the wave goal box
+- wave overlay box is created
+- still need to add a compatibility check
+- level ui is complete (score + timer)
+- Game loop is now operational
+- Timer implemented
+- Wave compatibility implemented
+
+2025-02-08
+Priority List:
+- Game over screen needs to be completed (with logic to restart the game)
+  + Done
+- Rebalance the levels
+- Test on laptop

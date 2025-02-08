@@ -1,0 +1,17 @@
+Control 0:0
+Control 1:0
+Control 2:0
+Control 3:0
+Control 4:0
+Control 5:0
+Control 6:0
+Control 7:0
+Control 8:0
+Pad 36:0
+Pad 37:0
+Pad 38:0
+Pad 39:0
+Pad 40:0
+Pad 41:0
+Pad 42:0
+Pad 43:0

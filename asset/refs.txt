@@ -1,0 +1,3 @@
+music: https://thricedotted.itch.io/looptober-2021-variety-pack
+tiles: https://mrmotarius.itch.io/mrmotext
+palette: https://lospec.com/palette-list/pop-rox
